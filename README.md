@@ -97,4 +97,4 @@ Screenshot the image of the complete schematic and upload it at the repository.
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+Esta práctica se me hizo mas interesante que la primera, pues ahora lo que hicimos fue el diseño de la PCB en donde tenemos que conectar manualmente cada componente, teniendo en cuenta las medidas especificadas para que falte espacio. Lo único que no me gusto tanto fue la parte de la importación del esquemático porque salen todos los componentes compactados y revueltos, fue dificil acomodarlos.
